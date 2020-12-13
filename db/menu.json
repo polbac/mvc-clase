@@ -1,0 +1,152 @@
+[
+    {
+    "price": "$10.00",
+    "name": "Jerk Chicken",
+    "description": "with Macaroni and Cheese"
+    },
+    {
+    "price": "$12.00",
+    "name": "Goat",
+    "description": "with Vegetables, Macaroni and Cheese"
+    },
+    {
+    "price": "$9.00",
+    "name": "Pasta",
+    "description": "with Baked Chicken"
+    },
+    {
+    "price": "$12.00",
+    "name": "Seafood Pasta",
+    "description": ""
+    },
+    {
+    "price": "$13.00",
+    "name": "Oxtail",
+    "description": ""
+    },
+    {
+        "price": "$1.50",
+        "name": "1 Pork Egg Roll 1 Pc",
+        "description": ""
+      },
+      {
+        "price": "$5.75",
+        "name": "3 Roast Pork",
+        "description": ""
+      },
+      {
+        "price": "$1.50",
+        "name": "2 Shrimp Egg Roll 1 Pc",
+        "description": ""
+      },
+      {
+        "price": "$7.50",
+        "name": "4 Bar B Q Spare Ribs",
+        "description": ""
+      },
+      {
+        "price": "$3.50",
+        "name": "5 Fried Wontons 10 Pcs",
+        "description": ""
+      },
+      {
+        "price": "$4.25",
+        "name": "6 Cheese Wontons 8 Pcs",
+        "description": ""
+      },
+      {
+        "price": "$5.50",
+        "name": "7 Fried or Steamed Dumplings 8 Pcs",
+        "description": ""
+      },
+      {
+        "price": "$4.00",
+        "name": "8 Fried Onion Rings 20 Pcs",
+        "description": ""
+      },
+      {
+        "price": "$1.50",
+        "name": "9 Fantail Jumbo Shrimp",
+        "description": "Each."
+      },
+      {
+        "price": "$4.00",
+        "name": "10 Fried Apple Sticks 20 Pcs",
+        "description": ""
+      },
+      {
+        "price": "$5.00",
+        "name": "11 Sugar Biscuits 10 Pcs",
+        "description": ""
+      },
+      {
+        "price": "$2.00",
+        "name": "12 French Fries",
+        "description": ""
+      },
+      {
+        "price": "$4.00",
+        "name": "13 Fried Yellow Plantain",
+        "description": ""
+      },
+      {
+        "price": "$4.00",
+        "name": "13 Fried Green Plantain",
+        "description": ""
+      },
+      {
+        "price": "$7.00",
+        "name": "14 Boneless B B Q Spare Ribs",
+        "description": ""
+      },
+      {
+        "price": "$2.50",
+        "name": "15 Egg Wonton Mix Soup",
+        "description": ""
+      },
+      {
+        "price": "$2.00",
+        "name": "16 Egg Drop Soup",
+        "description": ""
+      },
+      {
+        "price": "$2.00",
+        "name": "18 Chicken Rice Soup",
+        "description": ""
+      },
+      {
+        "price": "$2.00",
+        "name": "17 Chicken Noodle Soup",
+        "description": ""
+      },
+      {
+        "price": "$2.00",
+        "name": "19 Wonton Soup",
+        "description": ""
+      },
+      {
+        "price": "$5.00",
+        "name": "20 Yat Gaw Mein Quart",
+        "description": "Pork or chicken."
+      },
+      {
+        "price": "$5.25",
+        "name": "21 Yat Gaw Mein Quart",
+        "description": "Beef or shrimp."
+      },
+      {
+        "price": "$3.00",
+        "name": "22 Hot and Sour Soup",
+        "description": ""
+      },
+      {
+        "price": "$4.00",
+        "name": "23 Chinese Vegetables with Bean Curd Soup Quart",
+        "description": ""
+      },
+      {
+        "price": "$6.00",
+        "name": "24 Seafood Soup Quart",
+        "description": ""
+      }
+]
