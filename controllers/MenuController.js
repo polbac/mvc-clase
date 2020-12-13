@@ -4,6 +4,7 @@ const MenuView = require('../views/MenuView')
 class MenuController {
     listMenu() {
         const menuItems = MenuModel.getAll()
+        
         return MenuView.listView({
             items: menuItems
         })
